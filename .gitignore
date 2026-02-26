@@ -1,0 +1,6 @@
+# Para pacotes NPM do NodeJS.
+node_modules/
+pnpm-lock.yaml
+
+# Para não comitar variáveis de ambiente
+.env
